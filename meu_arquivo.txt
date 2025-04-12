@@ -1,0 +1,1 @@
+Testando funcionalidade dos comandos clone, add, commit, push.
